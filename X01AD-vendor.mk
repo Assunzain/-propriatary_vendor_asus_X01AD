@@ -393,7 +393,6 @@ PRODUCT_PACKAGES += \
     libqti-util \
     libqti-utils \
     libqtigef \
-    libqtikeymaster4 \
     librs_adreno \
     librs_adreno_sha1 \
     libscalar \
@@ -2330,7 +2329,6 @@ PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0-service-qti \
     android.hardware.gnss@2.0-service-qti \
     android.hardware.keymaster@3.0-service-qti \
-    android.hardware.keymaster@4.0-service-qti \
     qcrild \
     vendor.display.color@1.0-service \
     vendor.qti.esepowermanager@1.0-service \
