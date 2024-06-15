@@ -244,6 +244,7 @@ PRODUCT_PACKAGES += \
     fm_helium \
     libFileMux \
     libOmxMux \
+    libantradio \
     libfm-hci \
     libmmosal \
     libmmparser_lite \
